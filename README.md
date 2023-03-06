@@ -1,0 +1,3 @@
+```
+subsgrade deps <dir>
+```
